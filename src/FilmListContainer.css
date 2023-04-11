@@ -1,0 +1,18 @@
+
+
+.film-list-container {
+    background: linear-gradient(to right, #f9c2ff, #a6c1ee);
+    padding: 1rem;
+    border-radius: 8px;
+    width: 300px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto; 
+  }
+  
+  
+  .film-all-upcoming-films {
+    margin-top: 1rem; 
+  }
+  

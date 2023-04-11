@@ -1,0 +1,24 @@
+/* allMovies.css */
+
+/* Style for the link container */
+.all-movies-container {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+/* Style for the link */
+.all-movies-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+/* Style for the link on hover */
+.all-movies-link:hover {
+  background-color: #0056b3;
+}
